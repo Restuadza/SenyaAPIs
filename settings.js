@@ -5,7 +5,7 @@ creator = 'KazeDevID'
 
 //_______________________ ┏  Apikey  ┓ _______________________\\
 
-keyapi = 'SelfKey','eufjwofb'
+keyapi = 'SelfKey','BETA'
 
 // NOTE!!!!
 // KALAU APIKEY HABIS BUAT SENDIRI
